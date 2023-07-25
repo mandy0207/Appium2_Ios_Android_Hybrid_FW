@@ -1,0 +1,15 @@
+/Users/mandytaak/eclipse-workspace/Appium2IosFw/src/test/java/tests/Ios/IOSBasicTest.java
+/Users/mandytaak/eclipse-workspace/Appium2IosFw/src/test/java/Exceptions/NoAppFoundException.java
+/Users/mandytaak/eclipse-workspace/Appium2IosFw/src/test/java/Configurations/Constants.java
+/Users/mandytaak/eclipse-workspace/Appium2IosFw/src/test/java/util/TestProperties.java
+/Users/mandytaak/eclipse-workspace/Appium2IosFw/src/test/java/test/Android/AppiumBasics.java
+/Users/mandytaak/eclipse-workspace/Appium2IosFw/src/test/java/ReporterNG/ExtentReportNG.java
+/Users/mandytaak/eclipse-workspace/Appium2IosFw/src/test/java/listeners/Listeners.java
+/Users/mandytaak/eclipse-workspace/Appium2IosFw/src/test/java/test/base/IosBaseTest.java
+/Users/mandytaak/eclipse-workspace/Appium2IosFw/src/test/java/pages/IosActions.java
+/Users/mandytaak/eclipse-workspace/Appium2IosFw/src/test/java/pageObjects_Android/HomePage.java
+/Users/mandytaak/eclipse-workspace/Appium2IosFw/src/test/java/pages/AndroidActions.java
+/Users/mandytaak/eclipse-workspace/Appium2IosFw/src/test/java/test/base/AndroidBaseTest.java
+/Users/mandytaak/eclipse-workspace/Appium2IosFw/src/test/java/pages/CommonActions.java
+/Users/mandytaak/eclipse-workspace/Appium2IosFw/src/test/java/context/WebDriverContext.java
+/Users/mandytaak/eclipse-workspace/Appium2IosFw/src/test/java/pageObjects_IOS/HomePage.java
